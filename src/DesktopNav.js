@@ -4,7 +4,6 @@ import { AiOutlineSearch } from "react-icons/ai";
 import { BsGlobe, BsPersonFill } from "react-icons/bs";
 import { useState, useRef, useEffect } from "react";
 import {
-  Heading,
   Text,
   HStack,
   Button,
@@ -13,7 +12,6 @@ import {
   Icon,
   VStack,
   Input,
-  keyframes,
   Divider,
 } from "@chakra-ui/react";
 
